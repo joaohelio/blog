@@ -1,3 +1,3 @@
 # README
 
-PoC about "best pratices" and Graphql
+PoC about "best practices" and Graphql
